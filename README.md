@@ -5,7 +5,7 @@ This project is a demonstration of my ability to create a web application using 
 
 ## Requirements
 -Java 22.0.1
-- Apache Maven 3.9.7
+-Apache Maven 3.9.7
 -Spring Boot 3.2.7
 
 ## Note on Spring Boot Version
