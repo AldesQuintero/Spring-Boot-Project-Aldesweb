@@ -9,10 +9,10 @@ This project is a demonstration of my ability to create a web application using 
 - Spring Boot 3.2.7
 
 
-! [image Spring Boot 1](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033119.png)
-! [image Spring Boot 2](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033329.png)
-! [image Spring Boot 3](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033407.png)
-! [image Spring Boot 4](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033501.png)
+![image Spring Boot 1](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033119.png)
+![image Spring Boot 2](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033329.png)
+![image Spring Boot 3](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033407.png)
+![image Spring Boot 4](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033501.png)
 
 
 ## Note on Spring Boot Version
