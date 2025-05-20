@@ -8,6 +8,13 @@ This project is a demonstration of my ability to create a web application using 
 - Apache Maven 3.9.7
 - Spring Boot 3.2.7
 
+
+! [image Spring Boot 1](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033119.png)
+! [image Spring Boot 2](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033329.png)
+! [image Spring Boot 3](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033407.png)
+! [image Spring Boot 4](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb/blob/56f745d949ac8e33b0f7465ceab43beb95b2509d/Images/Captura%20de%20pantalla%202024-07-07%20033501.png)
+
+
 ## Note on Spring Boot Version
 We chose to use Spring Boot version 3.2.7 for this project because version 3.3.1 had compatibility issues, such as not detecting classes and other features. Therefore, to ensure the stability and functionality of the project, it was decided to maintain version 3.2.7.
 
